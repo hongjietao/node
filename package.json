@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hongjietao/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "taohongjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongjietao/node/issues"
+  },
+  "homepage": "https://github.com/hongjietao/node#readme"
+}
