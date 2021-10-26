@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hongjietao/node/issues"
   },
-  "homepage": "https://github.com/hongjietao/node#readme"
+  "homepage": "https://github.com/hongjietao/node#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
 }
